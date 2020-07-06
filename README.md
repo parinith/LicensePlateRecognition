@@ -5,4 +5,4 @@ In order to detect licence we will use Yolo ( You Only Look One ) deep learning 
 
 Keywords : Django , Python , CNN, YOLO
 
-<p><img src="https://github.com/parinith/LicensePlateRecognition/edit/master/Images/ss.png" width="700" height="400"></p>
+<p><img src="https://github.com/parinith/LicensePlateRecognition/blob/master/ss.png" width="700" height="400"></p>
